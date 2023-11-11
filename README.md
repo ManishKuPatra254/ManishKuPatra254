@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">📌I live in Balasore , India .<br><br>I am a Frointend Developer / Web Developer and currently working with technologies based on Web development i.e. HTML , CSS , Javascript , React Js , Bootstrap , Material UI , Figma Designs.<br> <br>I usually work with design systems and UI-component based react projects and make complex and beautiful components. 😉</p>
+<p align="left">📌I live in Balasore , India .<br><br>I am a Frontend Developer / Web Developer and currently working with technologies based on Web development i.e. HTML , CSS , Javascript , React Js , Bootstrap , Material UI , Figma Designs.<br> <br>I usually work with design systems and UI-component based react projects and make complex and beautiful components. 😉</p>
 
 ###
 
