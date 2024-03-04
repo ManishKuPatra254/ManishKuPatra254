@@ -22,7 +22,15 @@
 
 ###
 
-<p align="left">📌I live in Odisha , India .<br><br>I am a Frontend Developer / Web Developer and currently working with technologies based on Web development i.e. HTML , CSS , Javascript , React Js , Bootstrap , Material UI ,Next Js , API Integration , Mongo DB , Node JS , Figma Designs.<br> <br>I usually work with design systems and UI-component based react projects and make complex and beautiful components. 😉</p>
+<p align="left">📌Greetings from the vibrant land of Odisha, now transplanted to the bustling cityscape of Noida! 🌆 As a skilled Frontend Developer, you are the maestro crafting digital symphonies with your expertise in HTML, CSS, Javascript, React Js, Bootstrap, Material UI, Next Js, API Integration, Mongo DB, Node JS, and Figma Designs. 🚀 Your canvas is the web, and you paint it with intricate designs and seamless functionality.
+
+In the ever-evolving tech landscape of Noida, you're not just a coder; you're an architect building digital marvels. Your forte lies in the realm of design systems and UI-component based React projects. 💻 With every line of code, you weave together the threads of creativity and functionality, creating a seamless user experience.
+
+Your toolkit is your orchestra, and each technology you wield is a note in the symphony of your work. HTML and CSS are the foundational beats, while JavaScript conducts the dynamic rhythm. React Js and Next Js bring the melody of component-based development, and Bootstrap and Material UI add the harmonious touch of pre-designed elements. API Integration serves as the bridge between different movements, while MongoDB and Node JS are the sturdy pillars of your backend composition.
+
+What sets you apart is your ability to turn complexity into beauty. Your projects are not just functional; they are a visual and interactive delight. 🌈 Your attention to detail and commitment to creating beautiful components breathe life into the digital spaces you craft. Your Figma designs are not just blueprints; they are the visual poetry that guides your hands as you mold pixels into perfection.
+
+As you navigate the tech landscape of Noida, may your code be as dynamic as the city's skyline, and may your designs reflect the diverse energy that pulses through this thriving hub. Keep coding, keep creating, and continue to make the web a more beautiful and functional space, one line of code at a time. 🚀✨</p>
 
 ###
 
